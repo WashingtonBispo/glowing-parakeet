@@ -1,1 +1,0 @@
-# Protótipo de Alta Fidelidade
